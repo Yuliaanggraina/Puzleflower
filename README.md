@@ -63,6 +63,6 @@ https://puzzel.org/en/jigsaw/play?p=-OOLT8DlUcbwqi0K4hhN
 
 ## Berikut link puzzle
 
-![https://puzzel.org/en/jigsaw/play?p=-OOLT8DlUcbwqi0K4hhN](./gambar/bunga-matahari.jpg)
+!https://puzzel.org/en/jigsaw/play?p=-OOLT8DlUcbwqi0K4hhN
 
 > Setelah seluruh puzzle terselesaikan oleh semua kelompok, gambar bunga matahari akan tampak secara utuh.
