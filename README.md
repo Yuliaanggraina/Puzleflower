@@ -21,8 +21,8 @@ Setiap kelompok bertanggung jawab menyusun bagian tertentu dari puzzle. Setelah 
 - [ ] Nama Siswa 4
 
 **Link Puzzle Jigsaw:**  
-[Masukkan link puzzle di sini]
-
+[]
+https://puzzel.org/en/jigsaw/play?p=-OOLT8DlUcbwqi0K4hhN
 ---
 
 ### Kelompok 2
@@ -33,7 +33,7 @@ Setiap kelompok bertanggung jawab menyusun bagian tertentu dari puzzle. Setelah 
 - [ ] Nama Siswa 4
 
 **Link Puzzle Jigsaw:**  
-[Masukkan link puzzle di sini]
+[]
 
 ---
 
@@ -45,7 +45,7 @@ Setiap kelompok bertanggung jawab menyusun bagian tertentu dari puzzle. Setelah 
 - [ ] Nama Siswa 4
 
 **Link Puzzle Jigsaw:**  
-[Masukkan link puzzle di sini]
+[(https://puzzel.org/en/jigsaw/play?p=-OOLT8DlUcbwqi0K4hhN)]
 
 ---
 
@@ -63,6 +63,6 @@ Setiap kelompok bertanggung jawab menyusun bagian tertentu dari puzzle. Setelah 
 
 ## Berikut link puzzle
 
-![Bunga Matahari](./gambar/bunga-matahari.jpg)
+![https://puzzel.org/en/jigsaw/play?p=-OOLT8DlUcbwqi0K4hhN](./gambar/bunga-matahari.jpg)
 
 > Setelah seluruh puzzle terselesaikan oleh semua kelompok, gambar bunga matahari akan tampak secara utuh.
