@@ -1,4 +1,4 @@
-# Puzzlebungamatahari# Puzzle Bunga Matahari
+# Puzzle Bunga Matahari
 
 Proyek ini dirancang untuk siswa kelas 4 dalam bentuk kegiatan kolaboratif menyusun puzzle bergambar bunga matahari. Menggunakan metode pembelajaran **Jigsaw** dan pendekatan **berbasis permainan (Maradona Learning)**, proyek ini bertujuan meningkatkan kerja sama, kreativitas, dan kemampuan berpikir kritis siswa.
 
