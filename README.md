@@ -57,11 +57,11 @@ Setiap kelompok bertanggung jawab menyusun bagian tertentu dari puzzle. Setelah 
 - [ ] Nama Siswa 4
 
 **Link Puzzle Jigsaw:**  
-[Masukkan link puzzle di sini]
+[https://puzzel.org/en/jigsaw/play?p=-OOLT8DlUcbwqi0K4hhN]
 
 ---
 
-## Gambar Utama Puzzle
+## Berikut link puzzle
 
 ![Bunga Matahari](./gambar/bunga-matahari.jpg)
 
